@@ -1,0 +1,5 @@
+{
+  "name": "Creative Suite AI",
+  "description": "An all-in-one creative application featuring an AI-powered photo editor with masking and 3D effects, a feature-rich video editor with AI filters and generation (text-to-video, image-to-video), and a full-featured AI chatbot powered by Gemini. Edit your media and chat with an intelligent assistant in one place.",
+  "requestFramePermissions": []
+}
